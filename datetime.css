@@ -1,0 +1,11 @@
+body {
+    background-color: teal;
+    text-align: center;
+    margin-top: 20px;
+}
+
+div {
+    max-height: 80px;
+    margin: auto;
+    
+}
